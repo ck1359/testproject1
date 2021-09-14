@@ -1,0 +1,6 @@
+monitoring kubernetes cluster from kubernetes point are below 
+1- check of missing pods 
+2- monitor container restarts
+3- check for pods which are not running 
+4- check for resource utilization 
+5- kubernetes metrics API to monitor
